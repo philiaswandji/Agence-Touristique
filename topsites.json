@@ -1,0 +1,38 @@
+[
+  {
+    "Nom":"Muse      Nationale",
+    "Type":"Muse",
+    "Tarif":5000,
+    "Duree":60,
+    "Note":5,
+    "Description":"Bati sur une superficie de 5000 m2, le musee national du Cameroun, qui symbolise la regeneration et la renaissance de la culture camerounaise comporte une trentaine de salles equipees",
+    "img":"images/Muse_National_du_Cameroun_01.JPG"
+  },
+  {
+    "Nom":"Parc  de  La Mefou",
+    "Type":"Zoo",
+    "Tarif":5000,
+    "Duree":90,
+    "Note":4,
+    "Description":"Le parc est constitue d'une zone vie ou l'on est accueilli par des guides qui vous accompagneront durant toute la visite. On retrouve egalement dans cette zone, la nursery et la quarantaine où sont places les animaux recuperes.",
+    "img":"images/parc_mefou.jpg"
+  },
+  {
+    "Nom":"Bois    Sainte Anastasie",
+    "Type":"Parc",
+    "Tarif":500,
+    "Duree":30,
+    "Note":5,
+    "Description":"Cree en 2007, le Bois Sainte Anastasie est un parc d'attraction situe en plein centre ville au niveau du carrefour Warda.",
+    "img":"images/bois-sainte-anastasie.jpg"
+  },
+  {
+    "Nom":"Monument de Reunification ",
+    "Type":"Monument",
+    "Tarif":500,
+    "Duree":30,
+    "Note":2,
+    "Description":"Monument principal, en forme de spirale, represente deux serpents dont les tetes fusionnent1, symbole de la reunification du Cameroun francais et du Cameroun britannique le 1er octobre 1961.",
+    "img":"images/monument_reunification.jpg"
+  }
+]

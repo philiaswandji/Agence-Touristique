@@ -1,0 +1,119 @@
+{
+  "x1":{
+    "Nom":"Hilton Yaounde",
+    "Type":"Hotel",
+    "Tarif":25000,
+    "Duree":120,
+    "Note":5,
+    "Description":"L’hôtel Hilton Yaounde est situe au cœur du quartier des affaires de la ville et a quelques pas des bâtiments gouvernementaux et des entreprises locales.\nDetendez-vous dans l’une des chambres elegantes de cet hôtel de Yaounde, comprenant toutes un balcon avec vue sur la ville ou la piscine et un espace de travail separe avec acces Wi-Fi. Des plats français, italiens et locaux sont proposes a nos hôtes dans les cinq restaurants de l’hôtel.",
+    "img":"images/hilton-yaounde.jpg"
+  },
+  "x2":{
+    "Nom":"Le Moulin de Don Quichotte",
+    "Type":"Restaurant",
+    "Tarif":3000,
+    "Duree":45,
+    "Note":1,
+    "Description":"tres beau restaurant situee au quartier odja, le Moulin de Don Quichote nous fascine de ses varietes gustatives pleine de gout",
+    "img":"images/moulin_don_quichotte.jpg"
+  },
+  "x3":{
+    "Nom":"Istanbul Turkish Restaurant",
+    "Type":"Restaurant",
+    "Tarif":3000,
+    "Duree":60,
+    "Note":2,
+    "Description":"Situe au coeur du quartier bastos, Istanbul Turskish Restaurant nous transporte a la decouverte des saveurs turcs et de leur culture.",
+    "img":"images/istanbul.jpg"
+  },
+  "x4":{
+    "Nom":"Statue de charles Atangana",
+    "Type":"Monument",
+    "Tarif":500,
+    "Duree":30,
+    "Note":2,
+    "Description":"Charles Atangana, ne vers 1883 a Yaounde et mort le er septembre 1943 a Mvolye, est le dernier grand chef des Ewondos, un clan des Kolo Beti du Cameroun. Il fait construire une residence du chef qui porte aujourd'hui le nom de palais Charles Atangana",
+    "img":"images/statue_charle.jpg"
+  },
+  "x5":{
+    "Nom":"Monument de la Reunification ",
+    "Type":"Monument",
+    "Tarif":500,
+    "Duree":30,
+    "Note":2,
+    "Description":"Il a ete construit au debut des annees 1970 pour celebrer la reunification du Cameroun. Le monument principal, en forme de spirale, represente deux serpents dont les têtes fusionnent1, symbole de la reunification du Cameroun français et du Cameroun britannique le 1er octobre 1961. La statue represente un vieil homme portant cinq enfants ainsi que le flambeau national. ",
+    "img":"images/monument_reunification.jpg"
+  },
+  "x6":{
+    "Nom":"Muse National",
+    "Type":"Muse",
+    "Tarif":5000,
+    "Duree":60,
+    "Note":5,
+    "Description":"Bâti sur une superficie de 5000 m2, le musee national du Cameroun, qui symbolise la regeneration et la renaissance de la culture camerounaise comporte une trentaine de salles equipees ",
+    "img":"images/Muse_National_du_Cameroun_01.jpg"
+  },
+  "x7":{
+    "Nom":"Bois Saint Anastasie",
+    "Type":"Parc",
+    "Tarif":500,
+    "Duree":45,
+    "Note":5,
+    "Description":"Cree en 2007, le Bois Sainte Anastasie est un parc d’Attraction situe en plein centre ville au niveau du carrefour Warda.",
+    "img":"images/bois-sainte-anastasie.jpg"
+  },
+  "x10":{
+    "Nom":"Zoo de Mvog Betsi",
+    "Type":"Zoo",
+    "Tarif":500,
+    "Duree":120,
+    "Note":4,
+    "Description":"Le jardin du zoo Mvog Betsi a ete cree en 1951 par monsieur Pfeiffer. C'est un espace vert pour la garde des bêtes sauvages vivantes. Le zoo Mvog Betsi se trouve a Yaounde et est administre par le Ministère de la forêt et la faune. Ministère dirige par Pierre Helle.",
+    "img":"images/zoo_mvog_betsi.jpg"
+  },
+  "x9":{
+    "Nom":"Cathedrale de la paix",
+    "Type":"Cathedrale",
+    "Tarif":0,
+    "Duree":120,
+    "Note":2,
+    "Description":"La Cathédrale de Yaounde ou Cathédrale Notre-Dame des Victoires est situee près du rond-point de la poste centrale, au debut du boulevard du 20 mai. Avec ses 78 mètres de long, 32 m de large au niveau de la nef, 45 m au niveau du transept et 25 m de hauteur, elle a une capacite d’accueil de 5000 personnes.",
+    "img":"images/cathedrale_paix.jpg"
+  },
+  "x8":{
+    "Nom":"Parc de Mefou",
+    "Type":"Zoo",
+    "Tarif":5000,
+    "Duree":90,
+    "Note":4,
+    "Description":"Le parc est constitue d’une zone vie où l’on est accueilli par des guides qui vous accompagneront durant toute la visite. On retrouve egalement dans cette zone, la nursery et la quarantaine où sont places les animaux recuperes. Il y a ensuite plusieurs enclos dont un pour les gorilles excentre par rapport aux autres. Le parc est egalement très interessant pour observer les oiseaux et la nature assez florissante quelque soit la saison. La visite accompagnee dure entre 1 heure et 1heure 30. Attention, le parc ferme au public a 17H00. ",
+    "img":"images/parc_mefou.jpg"
+  },
+  "x11":{
+    "Nom":"Muse de Mont Febe",
+    "Type":"Muse",
+    "Tarif":2000,
+    "Duree":90,
+    "Note":2,
+    "Description":"Le Musee s'est installe dans ses locaux actuels voici bientôt une quinzaine d'annee, en 1964. Depuis, la collection s'est elargie.",
+    "img":"images/mont_febe.jpg"
+  },
+  "x12":{
+    "Nom":"Muse la Blackitude",
+    "Type":"Muse",
+    "Tarif":5000,
+    "Duree":90,
+    "Note":1,
+    "Description":"Le Musee La Blackitude est l’une des Structures de la Fondation Fô NAb Ngo I NANA SUNJIO Agnès.Cette fondation etend ses activites dans les œuvres sociales et humanitaires avec son centre d’appui aux initiatives de developpement artisanal, rural pour la reinsertion sociale en abrege CAIDARES. Le Musee La Blackitude dans le cadre de ses programmes d’activites et d’animations socioculturelles favorise aux desoeuvres l’initiation au metier d’art et artisanat .",
+    "img":"images/musee-la-blackitude.jpg"
+  },
+  "x13":{
+    "Nom":"Centre Culturel Camerounais",
+    "Type":"Centre Culturel",
+    "Tarif":1500,
+    "Duree":60,
+    "Note":4,
+    "Description":"Le Centre Culturel Camerounais (CCC)  est un espace de promotion de la culture camerounaise ; c’est egalement un  outil de production et de diffusion de l’art camerounais. Le Centre Culturel Camerounais inscrit sa vision dans la logique de regeneration culturelle engagee par les pouvoirs publics pour le developpement  d’une culture camerounaise forte et fierement assumee. ",
+    "img":"images/Centre-culturel-camerounais-de-Yaounde.jpg"
+  }
+}
