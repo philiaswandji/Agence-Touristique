@@ -1,0 +1,14 @@
+{
+  "name": "Visite Touristique",
+  "author": "Wandji Philias",
+  "license": "BSD",
+  "version": "1.0.0",
+  "description": "Application de visite touristique de la ville de Yaounde",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {}, 
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.65"
+  }
+}

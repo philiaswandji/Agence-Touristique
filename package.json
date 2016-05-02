@@ -1,0 +1,26 @@
+{
+  "name": "agence-visite-tourisitique",
+  "version": "1.1.0",
+  "description": "Application de visite touristique de Yaounde a partir de son budget",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/agence-visite-touristique"
+  },
+  "keywords": [
+    "visite",
+    "yaounde",
+    "budget"
+  ],
+  "license": "MIT"
+}

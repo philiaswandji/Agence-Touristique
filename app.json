@@ -1,0 +1,6 @@
+{
+  "name": "agence-visite-touristique",
+  "description": "Visite touristique de la ville de Yaounde",
+  "repository": "https://git.heroku.com/agence-visite-touristique",
+  "keywords": ["yaounde", "visite", "contraintes","temps","preferences"],
+}
